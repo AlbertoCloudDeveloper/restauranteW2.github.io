@@ -1,3 +1,22 @@
-.d-flex {
-    border-style: dotted;
+body {
+    font-style: italic;
+    font-size: 80px ;
+
+
 }
+
+.d-flex {
+    border-style:groove;
+    border-color: black;
+    border-width: 0.1ch;
+    margin-bottom: auto;
+}
+
+div.p-12 {
+    box-sizing: content-box;
+    width: 92%;
+    padding: 5%;    
+}
+
+
+
