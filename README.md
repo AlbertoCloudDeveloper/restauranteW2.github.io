@@ -1,2 +1,1 @@
-# restauranteW2
-w2
+# restauranteW2.github.io
